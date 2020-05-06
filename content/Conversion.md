@@ -1,11 +1,11 @@
 ---
 name: Conversion
-heading: ""           # "" Use empty quotes for no heading
+heading: "Sign up to be notified"           # "" Use empty quotes for no heading
 labels:
-  first: "What do we call you"
-  last: "Tell us something"
-  email: "And now your email"
-submitLabel: Set it and forget it		# Label for Submit Button
+  first: "First"
+  last: "Last"
+  email: "Email"
+submitLabel: Submit		# Label for Submit Button
 useCustom: false			# Replaces Built-in Form with any HTML pasted below
 hide: true						# Hides Element
 # ---------------------------------------------------------

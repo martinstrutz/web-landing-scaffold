@@ -1,16 +1,16 @@
 ---
 name: Hero
-background: images/hero-boy.jpg                              # Hero Background Image, see: static/images/hero.jpg
-# background: videos/hero.mp4 # Hero Background (Video), see: static/videos/hero.mp4
-ctaLabel: Tell us what you think.                     # CTA Label
-ctaUrl: "https://johnny274.typeform.com/to/J4mCFm"    # CTA Destination | Defaults to Conversion
-hide: false                                           # Hides Element
-fullScreen: true                                      # Sets Hero to full height of screen
+# background: hero-water.jpg      # Hero Background Image, see: static/images/hero.jpg
+background: videos/hero-ducks.mp4 # Hero Background (Video), see: static/videos/hero.mp4
+ctaLabel: Coming Soon  # CTA Label
+ctaUrl: "/#get-started"   # CTA Destination | Defaults to Conversion
+hide: false               # Hides Element
+fullScreen: true         # Sets Hero to full height of screen
 # ---------------------------------------------------------
 # Notes:
 # ---------------------------------------------------------
 ---
 
-# Super Builder
+# Hello,
 
-It's going to be huge
+Is it me you're looking for?
