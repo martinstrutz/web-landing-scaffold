@@ -13,7 +13,7 @@
 
 module.exports = [
   {
-    family: `Playfair Display`,
+    family: `Anton`,
     subsets: [`latin`],
   },
 ];
